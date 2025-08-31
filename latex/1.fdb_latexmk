@@ -1,0 +1,19 @@
+# Fdb version 4
+["pdflatex"] 1756563792.73741 "d:/vscode/latex/1.tex" "1.pdf" "1" 1756563793.60931 2
+  "1.aux" 1756563784 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "1.tex" 1756563703 109 f767276dfb4fd577d53ee2ae9b20f334 ""
+  "d:/texlive/2025/texmf-dist/tex/latex/base/article.cls" 1756536094 20144 b966087dda3b194755eb460d32e2ef75 ""
+  "d:/texlive/2025/texmf-dist/tex/latex/base/size10.clo" 1756536094 8448 686612a86f0e04f41ea577f5ec7e83d8 ""
+  "d:/texlive/2025/texmf-dist/tex/latex/fontspec/fontspec.sty" 1756528724 3755 4872b99d810c024f9c09bb1c62ffee3b ""
+  "d:/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def" 1756535995 30351 a2b09edc6c93a742566b222c33d0278e ""
+  "d:/texlive/2025/texmf-dist/tex/latex/l3kernel/expl3.sty" 1756536012 6558 773e78b2bed3fca0525bb56baa46bce5 ""
+  "d:/texlive/2025/texmf-dist/tex/latex/l3packages/xparse/xparse.sty" 1756536030 9783 ab4bee47700c04aadedb8da27591b0ab ""
+  "d:/texlive/2025/texmf-dist/web2c/texmf.cnf" 1756518867 42213 4e2ca030e8e2640502016e9e45868dcb ""
+  "d:/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1756553790 3605780 79636226a1346545e32d131879b4b6dc ""
+  "d:/texlive/2025/texmf.cnf" 1756553376 713 614551405fc44b98efbf516466e3c909 ""
+  "d:/vscode/latex/1.tex" 1756563703 109 f767276dfb4fd577d53ee2ae9b20f334 ""
+  (generated)
+  "1.aux"
+  "1.log"
+  "1.pdf"
+  (rewritten before read)
